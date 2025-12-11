@@ -1,6 +1,4 @@
-import 'dart:io';
-
 void main() {
-  stdout.writeln('Hello Holberton!');
+  print('Hello Holberton!\n');
 }
 
